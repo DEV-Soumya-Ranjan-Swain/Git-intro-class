@@ -1,2 +1,2 @@
 # Git-intro-class
-#### hello tgere
+#### hello there
